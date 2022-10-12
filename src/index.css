@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@font-face {
+  font-family: 'StarWarsFont'; /*a name to be used later*/
+  src: url('../public/fonts/stjedise/STJEDISE.TTF'); /*URL to font*/
+}
+@font-face {
+  font-family: 'StarWarsFontTitle'; /*a name to be used later*/
+  src: url('../public/fonts/starjout/Starjout.ttf') /*URL to font*/
+}
